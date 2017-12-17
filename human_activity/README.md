@@ -1,8 +1,10 @@
 # Adaptaciones del dataset Human Activity
-
-# Readme Original:
-
 https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+1. Dataset compuesto: tiene los nombres de las variables en los titulos
+2. Dataset MLP Spark: Formateado para entrenar, probar y predecir un modelo MLP en Spark-ML
+
+
 
 ===================================================================================================
 Human Activity Recognition Using Smartphones Dataset
